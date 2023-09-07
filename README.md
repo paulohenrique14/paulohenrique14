@@ -15,8 +15,8 @@
   <img align="center" alt="Paulo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Paulo-CSS" height="30" width="30" src="https://seeklogo.com/images/D/delphi-logo-E73609161E-seeklogo.com.png">
   <img align="center" alt="Paulo-CSS" height="30" width="30" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg">
-  <img align="right" src="https://media0.giphy.com/media/gjNgYBvJqGlV4q1H24/giphy.gif?cid=ecf05e47mgchk6tphqb82fjy3paokn0nig6kltij9jufry9g&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="160" height="120" frameBorder="0" class="giphy-embed" allowFullScreen></img>
-
+<!--   <img align="right" src="https://media0.giphy.com/media/gjNgYBvJqGlV4q1H24/giphy.gif?cid=ecf05e47mgchk6tphqb82fjy3paokn0nig6kltij9jufry9g&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="160" height="120" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+ -->
 <!--   <img align="center" alt="Paulo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
 <!--   <img align="center" alt="Paulo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
 
