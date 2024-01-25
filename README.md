@@ -1,9 +1,7 @@
 ### Hi there, im Paulo Henrique 👋
 
-- 🔭 I’m currently working on development with Delphi
-- 🌱 I’m currently learning Pascal and Javascript
+- 🔭 I’m currently working on development with Delphi and ReactJS
 - 📫 How to reach me: paulobw012345@gmail.com or on my linkedin, that is in the description
-- ⚡ Fun fact: in addition to development, I have been trying to learn about data analysis, using python and PowerBI
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulohenrique14&layout=compact&theme=dark)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulohenrique14&hide=contribs,prs&theme=dark&rank_icon=github)
