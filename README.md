@@ -1,6 +1,6 @@
 ### Hi there, im Paulo Henrique 👋
 
-- 🔭 I’m currently working on development with Delphi and ReactJS
+- 🔭 I’m currently working and studying on development with Delphi and ReactJS
 - 📫 How to reach me: paulobw012345@gmail.com or on my linkedin, that is in the description
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulohenrique14&layout=compact&theme=dark)
