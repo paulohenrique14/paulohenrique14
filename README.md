@@ -1,7 +1,13 @@
 ### Hi there, im Paulo Henrique 👋
 
-- 🔭 I’m currently working and studying on development with Delphi and ReactJS.
-- 📫 How to reach me: paulobw012345@gmail.com or on my linkedin, that is in the description.
+
+• Technical Skills: 
+  - relational database queries 
+  - development in Delphi (OOP | DBClient | Firedac) 
+  - ReactJS (Redux | ContextAPI | ReactRouter | Native Hooks) 
+  - data manipulation and development (Excel | SQL DBMS).
+  
+• 📫 How to reach me: paulobw012345@gmail.com or on my linkedin, that is in the description.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulohenrique14&layout=compact&theme=dark)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulohenrique14&hide=contribs,prs&theme=dark&rank_icon=github)
