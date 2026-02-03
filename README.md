@@ -12,9 +12,6 @@
   
 • 📫 How to reach me: phfigueiredo.dev@gmail.com or on my linkedin, that is in the description.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulohenrique14&layout=compact&theme=dark)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulohenrique14&hide=contribs,prs&theme=dark&rank_icon=github)
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Paulo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Paulo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
