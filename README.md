@@ -1,4 +1,4 @@
-### Hi there, i am Paulo Henrique 👋
+### Hi there, im Paulo Henrique 👋
 
 
 • Technical Skills: 
