@@ -3,7 +3,7 @@
 
 • Technical Skills: 
   - relational database queries (SQL)
-  -  Delphi
+  -  Delphi (Embarcadero Certified Developer)
   - ReactJS
   - NextJS
   - NodeJS
