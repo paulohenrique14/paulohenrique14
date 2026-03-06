@@ -1,7 +1,7 @@
 ### Hi there, i am Paulo Henrique 👋
 
 
-• Technical Skills: 
+• My technical Skills: 
   - relational database queries (SQL)
   -  Delphi (Certified Developer By Embarcadero)
   - ReactJS
