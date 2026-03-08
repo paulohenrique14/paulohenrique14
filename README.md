@@ -1,38 +1,66 @@
-### Hi there, i am Paulo Henrique 👋
+# Hi, I'm Paulo Henrique 👋
 
+Full Stack Developer with 3 years of experience, working with both 
+Desktop (Delphi) and Web (React, Next.js, Node.js). 
+Certified Delphi Developer by Embarcadero. 
+Passionate about building solutions that actually work — 
+from ERP integrations to web apps deployed at scale.
 
-• My technical Skills: ;
-  - relational database queries (SQL);
-  -  Delphi (Certified Developer By Embarcadero);
-  - ReactJS;
-  - NextJS;
-  - NodeJS;
-  - NestJS;
-  - data manipulation and development (Excel | SQL DBMS).
-  
-• 📫 How to reach me: phfigueiredo.dev@gmail.com or on my linkedin, that is in the description.
+📫 phfigueiredo.dev@gmail.com
+💼 linkedin.com/in/paulo-henrique-figueiredo-marques-000914181
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Paulo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Paulo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Paulo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Paulo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Paulo-CSS" height="30" width="30" src="https://seeklogo.com/images/D/delphi-logo-E73609161E-seeklogo.com.png">
-  <img align="center" alt="Paulo-CSS" height="30" width="30" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg">
-<!--   <img align="right" src="https://media0.giphy.com/media/gjNgYBvJqGlV4q1H24/giphy.gif?cid=ecf05e47mgchk6tphqb82fjy3paokn0nig6kltij9jufry9g&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="160" height="120" frameBorder="0" class="giphy-embed" allowFullScreen></img>
- -->
-<!--   <img align="center" alt="Paulo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
-<!--   <img align="center" alt="Paulo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
+---
 
-<hr>
+## 🛠️ Tech Stack
 
-<div> 
-  <a href="https://www.instagram.com/paulo__hfm/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:paulobw012345@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/paulo-henrique-figueiredo-marques-000914181/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+**Web**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-  
+**Desktop**
+![Delphi](https://img.shields.io/badge/Delphi-CC342D?style=for-the-badge&logo=delphi&logoColor=white)
+
+**Database**
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebird](https://img.shields.io/badge/Firebird-FF6600?style=for-the-badge&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🚀 Highlight Project
+
+**ERP + Web via QR Code — NaturalTech 2025**
+Built a full web application (React / Next.js / TypeScript) that brings 
+ERP data to the browser via QR Code. Showcased at NaturalTech — 
+the largest trade show in the natural products industry — 
+with outstanding client reception and near-zero support and error rates.
+
+---
+
+## 🌎 Languages
+
+🇧🇷 Portuguese — Native
+🇺🇸 English — Fluent
+🇪🇸 Spanish — Fluent
+
+---
+
+<div>
+  <a href="https://www.instagram.com/paulo__hfm/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="mailto:phfigueiredo.dev@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/paulo-henrique-figueiredo-marques-000914181/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </div>
-
-
-
