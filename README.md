@@ -1,13 +1,13 @@
 ### Hi there, i am Paulo Henrique 👋
 
 
-• My technical Skills: 
-  - relational database queries (SQL)
-  -  Delphi (Certified Developer By Embarcadero)
-  - ReactJS
-  - NextJS
-  - NodeJS
-  - NestJS
+• My technical Skills: ;
+  - relational database queries (SQL);
+  -  Delphi (Certified Developer By Embarcadero);
+  - ReactJS;
+  - NextJS;
+  - NodeJS;
+  - NestJS;
   - data manipulation and development (Excel | SQL DBMS).
   
 • 📫 How to reach me: phfigueiredo.dev@gmail.com or on my linkedin, that is in the description.
