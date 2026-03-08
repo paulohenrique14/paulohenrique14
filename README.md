@@ -40,16 +40,16 @@ from ERP integrations to web apps deployed at scale.
 **ERP + Web via QR Code — NaturalTech 2025**
 Built a full web application (React / Next.js / TypeScript) that brings 
 ERP data to the browser via QR Code. Showcased at NaturalTech — 
-the largest trade show in the natural products industry — 
+the largest trade show in the natural products industry,
 with outstanding client reception and near-zero support and error rates.
 
 ---
 
 ## 🌎 Languages
 
-🇧🇷 Portuguese — Native
-🇺🇸 English — Fluent
-🇪🇸 Spanish — Fluent
+🇧🇷 Portuguese
+🇺🇸 English
+🇪🇸 Spanish
 
 ---
 
