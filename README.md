@@ -1,4 +1,4 @@
-# Hi, I'm Paulo Henrique 👋
+# Hi, I am Paulo Henrique 👋
 
 Full Stack Developer with 3 years of experience, working with both 
 Desktop (Delphi) and Web (React, Next.js, Node.js). 
